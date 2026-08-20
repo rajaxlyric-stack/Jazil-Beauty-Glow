@@ -1,0 +1,6 @@
+{
+  "name": "Jazil Beauty Glow",
+  "description": "Clean, modern, mobile-first website for Jazil Beauty Glow cosmetics and beauty products located at New Pioneer Mall PI 39 & 32, Kampala. Quality skincare, Vaseline, cosmetics, and beauty essentials with direct WhatsApp ordering.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
